@@ -1,5 +1,7 @@
 # ATULYA_OPENCV
 
+#PSEUDOCODE 
+
 Required libraries namely numpy , cv2, aruco , imutils , math were imported.
 
 A function named findAruco was then created to find the ids of the arucos.
