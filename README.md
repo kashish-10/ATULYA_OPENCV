@@ -1,5 +1,7 @@
 # ATULYA_OPENCV
 
+PROBLEM STATEMENT - https://docs.google.com/document/d/16pL5th0OLdQVD4YZw9joZ5izpAZ75c9rf4CseUSPSwA/edit
+
 #PSEUDOCODE 
 
 Required libraries namely numpy , cv2, aruco , imutils , math were imported.
@@ -7,6 +9,8 @@ Required libraries namely numpy , cv2, aruco , imutils , math were imported.
 A function named findAruco was then created to find the ids of the arucos.
 
 Another function named aruco_Coords was then created to find the co-ordinates of the corners of the four aruco markers.
+
+Another function named color was created to find the color of the different squares.
 
 The inclination angle of the arucos was then determined using the coordinates obtained above.
 
